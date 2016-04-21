@@ -15,7 +15,8 @@ public class Driver
 	//Homework
 	static void sortArray(int[] ar)
 	{
-		//put the elements of the array in order SOMEHOW!!!
+		int sortArray =  arryOfNumbers;
+		
 	}
 	
 	static void fillArrayWithRandomInts(int[] ar)
