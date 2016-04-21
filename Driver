@@ -15,8 +15,16 @@ public class Driver
 	//Homework
 	static void sortArray(int[] ar)
 	{
-		int sortArray =  arryOfNumbers;
-		
+		int[] arrayNumbers = new {7,9,12,15};
+	
+		int sortArray =  arryNumbers;
+		int[] numbers = {7,9,12,15};
+		 
+		System.out.println(Arrays.toString(numbers));
+		 
+		 
+		System.out.println(Arrays.toString(numbers));
+
 	}
 	
 	static void fillArrayWithRandomInts(int[] ar)
